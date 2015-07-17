@@ -23,3 +23,5 @@ Resources related to FP’s beloved cousin.
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
+- [The Little Schemer](https://mitpress.mit.edu/books/little-schemer).
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html).
