@@ -3,7 +3,7 @@
 List of resources related to Functional Programming in JS.
 
 ## Get your hands dirty
-Learn dropping some code. Practical and interactive exercises.
+Learn while dropping some code. Practical and interactive exercises.
 
 - [Functional Programming in Javascript](http://jhusain.github.io/learnrx/).
 
