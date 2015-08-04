@@ -16,18 +16,18 @@ For those who have the time or the will. Complete books or featured chapters abo
 - [Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/).
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do).
 
-## Reactive (Functional) Programming
-Resources related to FP’s beloved cousin.
-
-- [General Theory of Reactivity](https://github.com/kriskowal/gtor).
-- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
-
 ## Videos
 - [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
 - [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
 
 ## Blogosphere
 Interesting posts about FP.
+
+## Reactive (Functional) Programming
+Resources related to FP’s beloved cousin.
+
+- [General Theory of Reactivity](https://github.com/kriskowal/gtor).
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
@@ -36,4 +36,4 @@ Interesting posts about FP.
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html).
 
 ### Submit yours!
-We'll glad to add your post/video/links if you've something to share.
+We'll glad to add your post/video/link if you've something to share.
