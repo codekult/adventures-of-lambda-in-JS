@@ -36,4 +36,4 @@ Resources related to FP’s beloved cousin.
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html).
 
 ### Submit yours!
-We'll glad to add your post/video/link if you've something to share.
+We'll be glad to add your post/video/link if you've something to share.
