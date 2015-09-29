@@ -23,6 +23,8 @@ For those who have the time or the will. Complete books or featured chapters abo
 ## Blogosphere
 Interesting posts about FP.
 
+- [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
+
 ## Reactive (Functional) Programming
 Resources related to FP’s beloved cousin.
 
@@ -32,6 +34,7 @@ Resources related to FP’s beloved cousin.
 ## Tools of the trade
 Libraries, frameworks and general tools.
 - [`lodash-fp`](https://github.com/lodash/lodash-fp).
+- [Ramda](http://ramdajs.com/).
 
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
