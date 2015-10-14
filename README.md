@@ -29,7 +29,7 @@ Interesting posts about FP.
 ## Reactive (Functional) Programming
 Resources related to FP’s beloved cousin.
 
-- :star: [General Theory of Reactivity](https://github.com/kriskowal/gtor).
+- :star: [General Theory of Reactivity](https://github.com/kriskowal/gtor). Watch [Video](https://www.youtube.com/watch?v=2p51PE1MZ8U).
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
 ## Tools of the trade
