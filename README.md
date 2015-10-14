@@ -23,6 +23,7 @@ For those who have the time or the will. Complete books or featured chapters abo
 ## Blogosphere
 Interesting posts about FP.
 
+- [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
 
 ## Reactive (Functional) Programming
