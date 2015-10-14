@@ -5,15 +5,15 @@ List of resources related to Functional Programming in JS.
 ## Get your hands dirty
 Learn while dropping some code. Practical and interactive exercises.
 
-- [Functional Programming in Javascript](http://reactivex.io/learnrx/).
+- :star: [Functional Programming in Javascript](http://reactivex.io/learnrx/).
 - [The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop).
-- [From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/?u=bd464f4fdbc43b02373c4d6932e26988812bd151) (Paid).
-- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/?u=bd464f4fdbc43b02373c4d6932e26988812bd151) (Paid).
+- [From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Paid).
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Paid).
 
 ## Hit the books
 For those who have the time or the will. Complete books or featured chapters about FP.
 
-- [Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/).
+- :star: [Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/).
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do).
 
 ## Videos
@@ -29,7 +29,7 @@ Interesting posts about FP.
 ## Reactive (Functional) Programming
 Resources related to FP’s beloved cousin.
 
-- [General Theory of Reactivity](https://github.com/kriskowal/gtor).
+- :star: [General Theory of Reactivity](https://github.com/kriskowal/gtor).
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
 ## Tools of the trade
@@ -40,7 +40,7 @@ Libraries, frameworks and general tools.
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
 - [Elm (compile to JS)](http://elm-lang.org/).
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
+- :star: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
 - [Haskell School of Music] (http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf).
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer).
