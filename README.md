@@ -17,7 +17,7 @@ For those who have the time or the will. Complete books or featured chapters abo
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do).
 - [JavaScript Allongé](https://leanpub.com/javascript-allonge/read).
 - Eloquent JavaScript:
-  - [Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html). (1st Edition).
+  - [Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html) (1st edition).
   - [Functions](http://eloquentjavascript.net/03_functions.html).
   - [Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html).
 
