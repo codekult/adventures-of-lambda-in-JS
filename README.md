@@ -29,6 +29,7 @@ Interesting posts about FP.
 
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
+- [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [raganwald.com](http://raganwald.com/) (check the essays list).
 
 ## Reactive (Functional) Programming
