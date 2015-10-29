@@ -7,7 +7,6 @@ Learn while dropping some code. Practical and interactive exercises.
 
 - :star: [Functional Programming in Javascript](http://reactivex.io/learnrx/).
 - [The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop).
-- [From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/) (Paid).
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Paid).
 
 ## Hit the books
