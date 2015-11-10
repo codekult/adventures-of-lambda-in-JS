@@ -25,11 +25,12 @@ For those who have the time or the will. Complete books or featured chapters abo
 - [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
 
 ## Blogosphere
-Interesting posts about FP.
+Interesting posts/essays about FP.
 
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
+- [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
 - [raganwald.com](http://raganwald.com/) (check the essays list).
 
 ## Reactive (Functional) Programming
