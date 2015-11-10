@@ -43,6 +43,8 @@ Resources related to FP’s beloved cousin.
 Libraries, frameworks and general tools.
 - [`lodash-fp`](https://github.com/lodash/lodash-fp).
 - [Ramda](http://ramdajs.com/).
+- [React](https://facebook.github.io/react/) with [Redux](http://redux.js.org/).
+- [RxJS](https://github.com/Reactive-Extensions/RxJS) (Reactive Extensions for JS).
 
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
