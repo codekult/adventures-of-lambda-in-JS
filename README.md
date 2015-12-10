@@ -20,10 +20,6 @@ For those who have the time or the will. Complete books or featured chapters abo
   - [Functions](http://eloquentjavascript.net/03_functions.html).
   - [Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html).
 
-## Videos
-- [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
-- [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
-
 ## Blogosphere
 Interesting posts/essays about FP.
 
@@ -33,6 +29,10 @@ Interesting posts/essays about FP.
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
 - [raganwald.com](http://raganwald.com/) (check the essays list).
+
+## Videos
+- [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
+- [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
 
 ## Reactive (Functional) Programming
 Resources related to FP’s beloved cousin.
