@@ -21,13 +21,14 @@ For those who have the time or the will. Complete books or featured chapters abo
   - [Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html).
 
 ## Blogosphere
-Interesting posts/essays about FP.
+Interesting posts/essays/slides about FP.
 
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
+- [Functional Programming Patterns (NDC London 2014)](http://www.slideshare.net/ScottWlaschin/fp-patterns-ndc-london2014).
 - [raganwald.com](http://raganwald.com/) (check the essays list).
 
 ## Videos
