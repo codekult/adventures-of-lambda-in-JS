@@ -28,7 +28,7 @@ Interesting posts/essays/slides about FP.
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
-- [Functional Programming Patterns (NDC London 2014)](http://www.slideshare.net/ScottWlaschin/fp-patterns-ndc-london2014).
+- [Functional Programming Patterns (NDC London 2014)](http://fsharpforfunandprofit.com/fppatterns/).
 - [raganwald.com](http://raganwald.com/) (check the essays list).
 
 ## Videos
