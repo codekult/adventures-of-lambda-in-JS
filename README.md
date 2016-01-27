@@ -53,6 +53,7 @@ Libraries, frameworks and general tools.
 - [Elm](http://elm-lang.org/) (compile to JS).
 - [Purescript](https://leanpub.com/purescript/read#leanpub-auto-functional-javascript).
 - :star: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
+- :star: [Functors, Applicatives and Monads in Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html).
 - [Haskell School of Music] (http://haskell.cs.yale.edu/wp-content/uploads/2015/03/HSoM.pdf).
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer).
