@@ -25,6 +25,7 @@ Interesting posts/essays/slides about FP.
 
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript).
+- [Practical Introduction to Monads in JS](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
