@@ -46,9 +46,10 @@ Resources related to FP’s beloved cousin.
 ## Tools of the trade
 Libraries, frameworks and general tools.
 - [`lodash-fp`](https://github.com/lodash/lodash-fp).
-- [Ramda](http://ramdajs.com/).
+- :star: [Ramda](http://ramdajs.com/).
 - [React](https://facebook.github.io/react/) with [Redux](http://redux.js.org/).
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) (Reactive Extensions for JS).
+- :star: [`eslint-config-cleanjs`](https://github.com/bodil/eslint-config-cleanjs), a ESLint conf to put JS closer to a pure FP language.
 
 ## Theory / Other Programming Languages
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
