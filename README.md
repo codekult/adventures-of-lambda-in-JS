@@ -23,7 +23,7 @@ For those who have the time or the will. Complete books or featured chapters abo
 ## Blogosphere
 Interesting posts/essays/slides about FP.
 
-- :star: [Your code could be simpler and I can prove it mathematically](https://github.com/mvaldesdeleon/functional-programming-es) is a good introduction to functional progamming principles and category theory (spanish).
+- :star: [Your code could be simpler and I can prove it mathematically](https://github.com/mvaldesdeleon/functional-programming-es) is a good introduction to functional programming principles and category theory (spanish).
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript).
 - [Practical Introduction to Monads in JS](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/).  Part II: [Either](http://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/).
