@@ -27,8 +27,9 @@ Interesting posts/essays/slides about FP.
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript).
 - [Practical Introduction to Monads in JS](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/).  Part II: [Either](http://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/).
 - [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/).
+- [Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/) a serie of posts about functional programming using Ramda.
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
-- [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/), a simple functional frontend architecture.
+- [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/) a simple functional frontend architecture.
 - [Functional Programming Patterns (NDC London 2014)](http://fsharpforfunandprofit.com/fppatterns/).
 - [raganwald.com](http://raganwald.com/) (check the essays list).
 
