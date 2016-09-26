@@ -36,6 +36,7 @@ Interesting posts/essays/slides about FP.
 
 ## Videos
 - :star: [JavaScript Air: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/) (check "Links, Tips, and Picks" section).
+- [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by Douglas Crockford.
 - [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
 - [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
 
