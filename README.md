@@ -68,6 +68,7 @@ Libraries, frameworks and general tools.
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [The Little Schemer](https://mitpress.mit.edu/books/little-schemer).
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-24.html#%_sec_3.5.5).
+- [Matryoshka](https://github.com/slamdata/matryoshka) for Scala (also check "External Resources").
 
 ### Submit yours!
 We'll be glad to add your post/video/link if you've something to share.
