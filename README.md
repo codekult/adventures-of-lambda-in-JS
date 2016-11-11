@@ -57,6 +57,7 @@ Libraries, frameworks and general tools.
 - :star: [`eslint-config-cleanjs`](https://github.com/bodil/eslint-config-cleanjs), a ESLint conf to put JS closer to a pure FP language.
 
 ## Theory / Other Programming Languages
+- :star: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/).
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
 - [Elm](http://elm-lang.org/) (compile to JS).
 - [Purescript](https://leanpub.com/purescript/read#leanpub-auto-functional-javascript).
