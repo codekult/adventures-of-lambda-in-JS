@@ -21,8 +21,13 @@ For those who have the time or the will. Complete books or featured chapters abo
   - [Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html).
 
 ## Blogosphere
-Interesting posts/essays/slides about FP.
+Interesting blogs/posts/essays/slides about FP.
 
+### Blogs
+- [LambdaCat](http://www.lambdacat.com/).
+- [raganwald.com](http://raganwald.com/) (check the essays list).
+
+### Posts/essays/slides
 - :star: [Your code could be simpler and I can prove it mathematically](https://github.com/mvaldesdeleon/functional-programming-es) is a good introduction to functional programming principles and category theory (spanish).
 - [Lazy, Composable and Modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript).
 - [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript).
@@ -32,7 +37,6 @@ Interesting posts/essays/slides about FP.
 - [The Two Pillars of JavaScript: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4).
 - [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial/) a simple functional frontend architecture.
 - [Functional Programming Patterns (NDC London 2014)](http://fsharpforfunandprofit.com/fppatterns/).
-- [raganwald.com](http://raganwald.com/) (check the essays list).
 
 ## Videos
 - :star: [JavaScript Air: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/) (check "Links, Tips, and Picks" section).
