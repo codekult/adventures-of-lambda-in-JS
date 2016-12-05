@@ -39,6 +39,7 @@ Interesting blogs/posts/essays/slides about FP.
 - [Functional Programming Patterns (NDC London 2014)](http://fsharpforfunandprofit.com/fppatterns/).
 
 ## Videos
+- :star: [Your code could be simpler and I can prove it mathematically](https://www.youtube.com/watch?v=WLPVrzrzyLY) (spanish).
 - :star: [JavaScript Air: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/) (check "Links, Tips, and Picks" section).
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by Douglas Crockford.
 - [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
