@@ -39,11 +39,12 @@ Interesting blogs/posts/essays/slides about FP.
 - [Functional Programming Patterns (NDC London 2014)](http://fsharpforfunandprofit.com/fppatterns/).
 
 ## Videos
+- :star: [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript).
 - :star: [Your code could be simpler and I can prove it mathematically](https://www.youtube.com/watch?v=WLPVrzrzyLY) (spanish).
-- :star: [JavaScript Air: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/) (check "Links, Tips, and Picks" section).
+- [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
+- [JavaScript Air: Functional and Immutable Design Patterns in JavaScript](http://javascriptair.com/episodes/2015-12-30/) (check "Links, Tips, and Picks" section).
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by Douglas Crockford.
 - [Function The Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) by Douglas Crockford.
-- [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) by Andre Staltz.
 
 ## Reactive (Functional) Programming
 Resources related to FP’s beloved cousin.
