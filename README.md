@@ -1,6 +1,6 @@
 # Adventures of lambda in JS
 
-List of resources related to Functional Programming in JS.
+List of curated resources related to Functional Programming in JS.
 
 ## Get your hands dirty
 Learn while dropping some code. Practical and interactive exercises.
