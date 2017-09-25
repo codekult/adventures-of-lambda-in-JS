@@ -6,6 +6,7 @@ List of resources related to Functional Programming in JS.
 Learn while dropping some code. Practical and interactive exercises.
 
 - :star: [Functional Programming in Javascript](http://reactivex.io/learnrx/).
+- :star: [Functional Programming Course by Data61](https://github.com/data61/fp-course)
 - [The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop).
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Paid).
 
