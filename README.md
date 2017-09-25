@@ -6,7 +6,6 @@ List of curated resources related to Functional Programming in JS.
 Learn while dropping some code. Practical and interactive exercises.
 
 - :star: [Functional Programming in Javascript](http://reactivex.io/learnrx/).
-- :star: [Functional Programming Course by Data61](https://github.com/data61/fp-course).
 - [The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop).
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) (Paid).
 
@@ -65,6 +64,7 @@ Libraries, frameworks and general tools.
 - :star: [`eslint-config-cleanjs`](https://github.com/bodil/eslint-config-cleanjs), a ESLint conf to put JS closer to a pure FP language.
 
 ## Theory / Other Programming Languages
+- :star: [Functional Programming Course by Data61](https://github.com/data61/fp-course) (Haskell).
 - :star: [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/).
 - [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html).
 - [Elm](http://elm-lang.org/) (compile to JS).
