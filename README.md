@@ -13,8 +13,9 @@ Learn while dropping some code. Practical and interactive exercises.
 For those who have the time or the will. Complete books or featured chapters about FP.
 
 - :star: [Professor Frisby’s Mostly Adequate Guide to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/).
+- :star: [Functional-light JavaScript](https://github.com/getify/Functional-Light-JS).
+- :star: [JavaScript Allongé](https://leanpub.com/javascript-allonge/read).
 - [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do).
-- [JavaScript Allongé](https://leanpub.com/javascript-allonge/read).
 - Eloquent JavaScript:
   - [Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html) (1st edition).
   - [Functions](http://eloquentjavascript.net/03_functions.html).
