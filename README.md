@@ -21,6 +21,9 @@ For those who have the time or the will. Complete books or featured chapters abo
   - [Functions](http://eloquentjavascript.net/03_functions.html).
   - [Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html).
 
+## Gists
+- [Common combinators in JS](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45).
+
 ## Blogosphere
 Interesting blogs/posts/essays/slides about FP.
 
@@ -57,8 +60,9 @@ Resources related to FP’s beloved cousin.
 
 ## Tools of the trade
 Libraries, frameworks and general tools.
-- [`lodash-fp`](https://github.com/lodash/lodash-fp).
 - :star: [Ramda](http://ramdajs.com/).
+- :star: [Sanctuary JS](https://sanctuary.js.org/).
+- [`lodash-fp`](https://github.com/lodash/lodash-fp).
 - [Ramda fantasy](https://github.com/ramda/ramda-fantasy).
 - [React](https://facebook.github.io/react/) with [Redux](http://redux.js.org/).
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) (Reactive Extensions for JS).
